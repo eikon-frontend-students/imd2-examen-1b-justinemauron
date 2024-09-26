@@ -74,7 +74,26 @@ video {
 }
 
 /* 01. Sélecteurs CSS */
+.selectors h3,
+.selectors h4 {
+  font-family: "libre Baskerville";
+}
 
+.section-sport h4 {
+  color: #78290f;
+}
+
+.section-culture h4 {
+  color: #15616d;
+}
+
+.section-regions .first {
+  font-weight: bold;
+}
+
+.first.highlighted {
+  background: #faf0ca;
+}
 /* 02. Centrer horizontalement */
 
 .calltoaction {
