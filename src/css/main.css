@@ -111,6 +111,15 @@ video {
   color: #fdf0d5;
   font-family: "Libre Baskerville";
   text-transform: uppercase;
+  margin: auto;
+  text-align: center;
+}
+
+.calltoaction-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 /* 03. Centrer verticalement */
